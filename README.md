@@ -10,25 +10,15 @@ Welcome to SquareLand! This Privacy Policy explains how SquareLand handles and p
 
 SquareLand is designed to operate without collecting any personal data from its users. We do not collect, store, or process any personally identifiable information (PII) such as names, addresses, phone numbers, email addresses, or any other personal details.
 
-## Use of Non-Personal Information
-
-While we do not collect personal information, SquareLand may gather certain non-personal information for analytical purposes to improve the user experience and understand how our application is being used. This non-personal information may include:
-
-1. Usage Data: We may collect anonymous usage data, such as device type, operating system, and application version. This information helps us identify and fix bugs, enhance performance, and optimize the application for different platforms.
-
-2. Analytics: We may use third-party analytics tools to gather non-personal data such as the number of users, frequency of app usage, and feature popularity. This data helps us understand user preferences and make informed decisions regarding future updates and improvements.
-
 ## Information Sharing and Disclosure
 
 As we do not collect personal information, we do not share or disclose any data with third parties, except as described in this Privacy Policy. We may share non-personal information with trusted service providers who assist us in analyzing app usage, improving performance, and ensuring the security of our application. These service providers are contractually obligated to maintain the confidentiality and security of any information they receive.
 
-## Data Security
-
-SquareLand takes appropriate technical and organizational measures to safeguard non-personal information collected from users. We employ industry-standard security practices to protect against unauthorized access, disclosure, alteration, or destruction of data. However, please note that no method of transmission over the internet or electronic storage is entirely secure, and we cannot guarantee absolute security.
-
 ## Children's Privacy
 
-SquareLand is not directed towards individuals under the age of 13. We do not knowingly collect any information from children under the age of 13. If we become aware that we have collected information from a child under 13 without parental consent, we will take immediate steps to delete that information.
+SquareLand is designed to be suitable for users of all ages, including children. We are committed to protecting the privacy of children who use our application.
+
+SquareLand does not collect any personal information, including information from children. We do not knowingly gather any data from children under the age of 13.
 
 ## Changes to the Privacy Policy
 
